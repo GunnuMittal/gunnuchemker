@@ -5,7 +5,7 @@
       "value": "ANYTHING"
     },
     "TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "5371862818:AAGNAZ5cSa9dQHY2LwiIVpCq3Xeqpmps4jE, as a string.",
       "value": "",
       "required": true
     },
